@@ -1,0 +1,7 @@
+[
+  {
+    "prefix": "recipes",
+    "domain": "recipes",
+    "port": 3001
+  }
+]
