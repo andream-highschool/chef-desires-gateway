@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "npm i && nodemon src/server.js",
-    "start": "node src/server.js"
+    "start": "npm i && nodemon src/server.js"
   },
   "keywords": [],
   "author": "",
